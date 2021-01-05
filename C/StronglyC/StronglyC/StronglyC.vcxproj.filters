@@ -13,10 +13,91 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Chap10">
+      <UniqueIdentifier>{0ea98102-d55c-40f8-a3ec-703b0b2f53b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap11">
+      <UniqueIdentifier>{1a87595a-9a9f-43f4-980e-b87780707eb7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Chap10.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Chap10</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-Pointer01.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-Pointer02.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-ptrnarray01.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-ptrstring01.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-ptrstring02.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-ptrmeminit01.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-ptrmalloc01.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-ptrmeminit02.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-msize.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-ptrmemcpy01.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-ptrmemcmp01.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-ptrstrcmp01.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-ptrsearch01.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-ptrnarray02.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-ptrrealloc01.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-badpointer01.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-arrayofptr01.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-arrayofptr02.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-pointer03.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-arrayofptr03.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-ptrtoarray01.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-variable01.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-variable02.c">
+      <Filter>소스 파일\Chap11</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap11-variable03.c">
+      <Filter>소스 파일\Chap11</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
