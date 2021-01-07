@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\Chap12">
       <UniqueIdentifier>{f81cf351-8617-4428-967b-91ed28934640}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chap13">
+      <UniqueIdentifier>{8d419754-f283-4e87-851a-e37c0a0f2dc7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Chap10.c">
@@ -122,6 +125,15 @@
     </ClCompile>
     <ClCompile Include="Chap12-unicode02.c">
       <Filter>소스 파일\Chap12</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap13-struct.c">
+      <Filter>소스 파일\Chap13</Filter>
+    </ClCompile>
+    <ClCompile Include="Charp13-structbitfield01.c">
+      <Filter>소스 파일\Chap13</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap13-union01.c">
+      <Filter>소스 파일\Chap13</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
