@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\Chap13">
       <UniqueIdentifier>{8d419754-f283-4e87-851a-e37c0a0f2dc7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chap14">
+      <UniqueIdentifier>{ce9acb48-22f3-4f52-8d8b-649759952337}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Chap10.c">
@@ -134,6 +137,9 @@
     </ClCompile>
     <ClCompile Include="Chap13-union01.c">
       <Filter>소스 파일\Chap13</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap14-FileClose01.c">
+      <Filter>소스 파일\Chap14</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
