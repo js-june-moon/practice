@@ -28,6 +28,15 @@
     <Filter Include="소스 파일\Chap14">
       <UniqueIdentifier>{ce9acb48-22f3-4f52-8d8b-649759952337}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chap15">
+      <UniqueIdentifier>{dacca86b-9e23-415d-8268-089077424f7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap16">
+      <UniqueIdentifier>{d497edff-c9eb-4e0c-8e25-fa4621e91b7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap17">
+      <UniqueIdentifier>{b9a79821-0fa8-427d-9ded-e3b57b82f31e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Chap10.c">
@@ -140,6 +149,72 @@
     </ClCompile>
     <ClCompile Include="Chap14-FileClose01.c">
       <Filter>소스 파일\Chap14</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap15-const02.c">
+      <Filter>소스 파일\Chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap15-VLA.c">
+      <Filter>소스 파일\Chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap15-volatile01.c">
+      <Filter>소스 파일\Chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap15-volatile02.c">
+      <Filter>소스 파일\Chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap15-VariableExtern01.c">
+      <Filter>소스 파일\Chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap15-Test.c">
+      <Filter>소스 파일\Chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap15-typedef01.c">
+      <Filter>소스 파일\Chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap15-enum01.c">
+      <Filter>소스 파일\Chap15</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap16-macro01.c">
+      <Filter>소스 파일\Chap16</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap16-macro02.c">
+      <Filter>소스 파일\Chap16</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap16-macro03.c">
+      <Filter>소스 파일\Chap16</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap16-conditional01.c">
+      <Filter>소스 파일\Chap16</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap16-mode.c">
+      <Filter>소스 파일\Chap16</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap17-inline01.c">
+      <Filter>소스 파일\Chap17</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap17-convention03.c">
+      <Filter>소스 파일\Chap17</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap17-convention01.c">
+      <Filter>소스 파일\Chap17</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap17-convention04.c">
+      <Filter>소스 파일\Chap17</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap17-funcptr01.c">
+      <Filter>소스 파일\Chap17</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap17-funcptr02.c">
+      <Filter>소스 파일\Chap17</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap17-callback01.c">
+      <Filter>소스 파일\Chap17</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap17-TestApp.c">
+      <Filter>소스 파일\Chap17</Filter>
+    </ClCompile>
+    <ClCompile Include="Chap17-variableparam01.c">
+      <Filter>소스 파일\Chap17</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
