@@ -16,6 +16,12 @@
     <Filter Include="소스 파일\Day01">
       <UniqueIdentifier>{129e06c5-a635-4162-8833-f08610cf3ffd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day02">
+      <UniqueIdentifier>{3c54fbe5-aa1b-4b4d-93ac-1811c1e5d6f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Day03">
+      <UniqueIdentifier>{8ce89ef6-fa50-41d6-bc44-96422fd93d60}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Day01_DefaultValue.cpp">
@@ -39,5 +45,25 @@
     <ClCompile Include="Day01_NameAlias.cpp">
       <Filter>소스 파일\Day01</Filter>
     </ClCompile>
+    <ClCompile Include="Day03_RacingCarFuncAdd.cpp">
+      <Filter>소스 파일\Day03</Filter>
+    </ClCompile>
+    <ClCompile Include="Day03_RacingCarEnum.cpp">
+      <Filter>소스 파일\Day03</Filter>
+    </ClCompile>
+    <ClCompile Include="Day03_RacingCarOuterFunc.cpp">
+      <Filter>소스 파일\Day03</Filter>
+    </ClCompile>
+    <ClCompile Include="Day03_CarInline.cpp">
+      <Filter>소스 파일\Day03</Filter>
+    </ClCompile>
+    <ClCompile Include="Day03_RacingInlineMain.cpp">
+      <Filter>소스 파일\Day03</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Day03_CarInline.h">
+      <Filter>소스 파일\Day03</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
