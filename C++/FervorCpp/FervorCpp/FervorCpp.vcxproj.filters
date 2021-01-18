@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\Day03">
       <UniqueIdentifier>{8ce89ef6-fa50-41d6-bc44-96422fd93d60}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day04">
+      <UniqueIdentifier>{2eaa01e9-1c58-4020-9d9a-1ac9c61e9f88}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Day01_DefaultValue.cpp">
@@ -60,10 +63,28 @@
     <ClCompile Include="Day03_RacingInlineMain.cpp">
       <Filter>소스 파일\Day03</Filter>
     </ClCompile>
+    <ClCompile Include="Day03_constFunc.cpp">
+      <Filter>소스 파일\Day04</Filter>
+    </ClCompile>
+    <ClCompile Include="Day03_Point.cpp">
+      <Filter>소스 파일\Day04</Filter>
+    </ClCompile>
+    <ClCompile Include="Day03_Rectangle.cpp">
+      <Filter>소스 파일\Day04</Filter>
+    </ClCompile>
+    <ClCompile Include="Day03_RectangleConstructor.cpp">
+      <Filter>소스 파일\Day04</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Day03_CarInline.h">
       <Filter>소스 파일\Day03</Filter>
+    </ClInclude>
+    <ClInclude Include="Day03_Point.h">
+      <Filter>소스 파일\Day04</Filter>
+    </ClInclude>
+    <ClInclude Include="Day03_Rectangle.h">
+      <Filter>소스 파일\Day04</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
