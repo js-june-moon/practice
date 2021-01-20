@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\Day05">
       <UniqueIdentifier>{81d92b31-78a1-4c8e-8b06-5bf8f1855a95}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day06">
+      <UniqueIdentifier>{4b54d5cc-f893-49d9-8c27-18f134fdfbe3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Day01_DefaultValue.cpp">

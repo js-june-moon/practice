@@ -6,10 +6,11 @@
 
 using namespace std;
 
-Account::Account(int id, char* inname, int bal) {
-	this->accountNumber = id;
+Account::Account(int id, char* inname, int bal) 
+	:accountNumber(id), balance(bal)
+{
+	this->name = new char[strlen(inname) + 1];
 	strcpy(this->name, inname);
-	this->balance = bal;
 }
 
 void Account::CreateAccount(int cnt) {

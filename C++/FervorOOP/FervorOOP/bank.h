@@ -7,7 +7,7 @@
 class Account {
 private:
 	int accountNumber;	// °èÁÂ¹øÈ£
-	char name[MAXNAME];	// °í°´ÀÌ¸§
+	char *name;	// °í°´ÀÌ¸§
 	int balance;		// °í°´ÀÜ¾×
 public:
 	Account(int id, char* inname, int bal);
