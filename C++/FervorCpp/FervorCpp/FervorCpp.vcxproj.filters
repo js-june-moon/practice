@@ -31,6 +31,18 @@
     <Filter Include="소스 파일\Day06">
       <UniqueIdentifier>{4b54d5cc-f893-49d9-8c27-18f134fdfbe3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day07">
+      <UniqueIdentifier>{df614cef-aac3-4702-aa72-b1bdd0e3ac50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Day08">
+      <UniqueIdentifier>{78b17a2c-dba8-48b9-a18a-ba6c50aff151}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Day09">
+      <UniqueIdentifier>{7c471226-c3a9-4803-ae5c-5cbc65f6a545}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Day10">
+      <UniqueIdentifier>{3e88c194-5ad5-4985-a487-1c635795844d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Day01_DefaultValue.cpp">
@@ -81,6 +93,33 @@
     <ClCompile Include="Day03_RectangleConstructor.cpp">
       <Filter>소스 파일\Day04</Filter>
     </ClCompile>
+    <ClCompile Include="Day10_PowerfulCasting.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
+    <ClCompile Include="Day10_DynamicCasting.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
+    <ClCompile Include="Day10_CarTruck.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
+    <ClCompile Include="Day10_StaticCasting.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
+    <ClCompile Include="Day10_ConstCasting.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
+    <ClCompile Include="Day10_ReinterpretCasting.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
+    <ClCompile Include="Day10_PolymorphicDynamicCasting.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
+    <ClCompile Include="Day10_PolymorphicStableCasting.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
+    <ClCompile Include="Day10_DynamicBadCastRef.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Day03_CarInline.h">
@@ -91,6 +130,9 @@
     </ClInclude>
     <ClInclude Include="Day03_Rectangle.h">
       <Filter>소스 파일\Day04</Filter>
+    </ClInclude>
+    <ClInclude Include="Day10_CarTruck.h">
+      <Filter>소스 파일\Day10</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
